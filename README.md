@@ -4,9 +4,6 @@ I'm a physics graduate who loves learning new technologies. I'm currently traini
 
 **** 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="400px"  src="https://github-readme-stats.vercel.app/api?username=theduckfliesagain&count_private=true&show_icons=true&theme=gotham" />
-  </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" width="338px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theduckfliesagain&show_icons=true&theme=gotham&layout=compact"/>
   </a>
